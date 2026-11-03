@@ -6,7 +6,7 @@
 **Multi-Agent GenAI (LangGraph, MCP) · Real-Time Recommendation Engines · Distributed Data Platforms · Day-2 MLOps & SRE Governance**
 
 [![Location](https://img.shields.io/badge/📍_Singapore-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/shankar-saran-singh)
-[![Experience](https://img.shields.io/badge/13%2B_Years_Experience-10B981?style=for-the-badge)](#💼-career-journey--experience)
+[![Experience](https://img.shields.io/badge/14%2B_Years_Experience-10B981?style=for-the-badge)](#💼-career-journey--experience)
 [![Certifications](https://img.shields.io/badge/12%2B_Global_Certifications-8B5CF6?style=for-the-badge)](#🎓-global-certifications--awards)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shankar-saran-singh)
 [![Email](https://img.shields.io/badge/Email-shankarsaran620%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shankarsaran620@gmail.com)
@@ -17,7 +17,7 @@
 
 ## 🚀 Executive Profile
 
-Visionary **Staff Engineer, Data & AI Systems Architect, and AI & Agent Operations Leader** with **13+ years** of deep expertise architecting and operating production-grade **Data Platforms, Real-Time Recommender Systems, End-to-End MLOps Lifecycles, and Multi-Agent Generative AI Ecosystems** across **Media, Banking & Financial Services, Telecom, and Gaming**.
+Visionary **Staff Engineer, Data & AI Systems Architect, and AI & Agent Operations Leader** with **14+ years** of deep expertise architecting and operating production-grade **Data Platforms, Real-Time Recommender Systems, End-to-End MLOps Lifecycles, and Multi-Agent Generative AI Ecosystems** across **Media, Banking & Financial Services, Telecom, and Gaming**.
 
 - **Architecture at Scale:** Proven track record designing high-concurrency real-time personalization layers, semantic vector search platforms (**OpenSearch**), and distributed streaming/batch engines (**Spark, PySpark, Kafka, Airflow**) handling **millions of daily events and concurrent requests on AWS EKS**.
 - **Agentic AI & Day-2 Operations:** Pioneered enterprise multi-agent workflows using **LangGraph** and **Model Context Protocol (MCP)** servers—enforcing automated evaluation frameworks, RAG citation tracing, hallucination guardrails, fallback routing, and evidence-based **go/no-go release gates**.
