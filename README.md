@@ -40,8 +40,8 @@ Visionary **Staff Engineer, Data & AI Systems Architect, and AI & Agent Operatio
 ## 🧠 Core Architectural & Operating Pillars
 
 ### 1. 🤖 Agentic AI, GenAI & Day-2 AI Operations
-- **Multi-Agent Orchestration:** Production multi-agent workflows with **LangGraph** and **Model Context Protocol (MCP)** servers for automated content transformation, multilingual translation, summarization, and enrichment.
-- **AI Governance & Safety Gates:** Automated evaluation pipelines, **RAG citation tracing**, bias & drift monitoring, explainability, prompt-injection/hallucination guardrails, and evidence-based **go/no-go handover gates**.
+- **Multi-Agent Orchestration & AI Harness:** Production multi-agent workflows with **LangGraph**, **Google ADK**, **AI Harness**, and **Model Context Protocol (MCP)** servers for automated content transformation, multilingual translation, summarization, and enrichment.
+- **AI Governance, Model Risk Management & Safety Gates:** Automated evaluation pipelines, **Model Risk Management**, **RAG citation tracing**, bias & drift monitoring, explainability, prompt-injection/hallucination guardrails, and evidence-based **go/no-go handover gates**.
 - **Resilient LLM Serving:** Validation layers, dynamic fallback routing, semantic caching, and real-time observability/tracing.
 
 ### 2. 🎯 Real-Time Recommendation & Vector Search Systems
